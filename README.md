@@ -1,0 +1,2 @@
+# NFC-Based-Secured-Payment-System
+Proposed system will used for payment transferring system. It uses NFC Feature. Use of near-field communication (NFC) technology through an Android Application to digitally transfer money from the payer’s bank account to the payee’s bank account with enhanced security and biometric authentication . Consumers who use NFC Pay application can make secure mobile payments at nearly all merchant locations, via NFC. User pay payment by NFC Tag.
